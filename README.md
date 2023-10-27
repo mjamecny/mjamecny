@@ -31,7 +31,8 @@ List of small projects built from scratch on coding platform icodethis.com
 - icodethis challenges (coding platform for practicing HTML,CSS and JS skills)
 
 ## 📈 Github Stats
-![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjamecny&theme=transparent)
+![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjamecny&theme=transparent)  
+![](https://komarev.com/ghpvc/?username=mjamecny)
 
 ## 📫 Contact
 Feel free to contact me and explore my projects.  
